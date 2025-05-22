@@ -1,0 +1,53 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {background-image: url(../img/imagen3.jpg); }
+
+#main{width: 1280px;
+	height: 720xp;
+	background-color: #82589f ;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#heder{
+width: 1280xp;
+height: 720xp;
+background-color: #82589f;
+}
+
+#nav{
+	width: 100%;
+	height: 50px;
+	background-color: #fab1a0;
+}
+
+#section{
+width:100% ;
+height: 500px;
+background-color: #a29bfe;
+}
+
+#footer{width: 100%;
+	height: 50px;
+	background-color: #55efc4
+}
+
+#izquierda{
+	width: 50%;
+	height: 500px;
+	background-color: #74b9ff;
+	float: left;
+	padding: 40px;
+}
+
+#derecha{
+	width: 50%;
+	height: 500px;
+	background-color: #ffeaa7;
+	float: right;
+	padding: 40px;
+}
